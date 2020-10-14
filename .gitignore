@@ -1,1 +1,4 @@
-.tools
+*.txt
+.html
+docs/
+.hello.sh
