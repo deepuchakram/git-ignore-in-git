@@ -1,1 +1,1 @@
-echo " ignoring text files "
+echo " ignoring all text files "
