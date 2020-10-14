@@ -1,0 +1,3 @@
+Git Ignore is a file in Git that helps us ignore the files that 
+we don’t want to commit or don’t want to track. 
+Although a file which has already been tracked by Git cannot be ignored.
