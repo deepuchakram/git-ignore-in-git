@@ -1,1 +1,1 @@
-echo " gitignore files "
+echo " ignoring text files "
